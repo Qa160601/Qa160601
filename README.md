@@ -8,7 +8,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Qa160601&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
         alt="Qa160601"/>
     <img align='center'
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qa160601&layout=compact"
+        src="https://https://github-readme-stats.vercel.app/api/wakatime?username=Qa160601"
         alt="wakatime stats" />
 </p>
 
