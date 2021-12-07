@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I’m Trương Minh Tuấn</h1>
-<h3 align="center">Backend/Blockchain Developer</h3>
+<h3 align="center">Fresher Developer</h3>
 
-- 📫 How to reach me **nampt1999@gmail.com**
-
-- ⚡ Fun fact **I'm a Bug creator**
+- 📫 How to reach me **minhtuantruong2001@outlook.com**
 
 <p align="center">
     <img align="center"
