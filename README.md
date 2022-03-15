@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Trương Minh Tuấn</h1>
-<h3 align="center">Fresher Developer</h3>
+<h3 align="center">Intern Developer</h3>
 
 - 📫 How to reach me **minhtuantruong2001@outlook.com**
 
