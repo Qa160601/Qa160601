@@ -4,8 +4,7 @@
 - 📫 How to reach me **minhtuantruong2001@outlook.com**
 
 <p align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Qa160601&show_icons=true&theme=radical"
+    <img src="https://github-readme-stats.vercel.app/api?username=Qa160601&show_icons=true&theme=radical"
         alt="card"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qa160601&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
         alt="Qa160601"/>
