@@ -8,8 +8,8 @@
         alt="card"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mt20102001&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
         alt="Qa160601"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mt20102001"
-        alt="wakatime stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mt20102001"
+        alt="wakatime stats" /> -->
 </p>
 
 <!-- <h3 align="left">Support:</h3>
