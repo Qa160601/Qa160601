@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Trương Minh Tuấn</h1>
 <h3 align="center">Game Developer</h3>
 
-- 📫 How to reach me **minhtuantruong2001@outlook.com**
+- 📫 How to reach me **tundetruong2801@outlook.com**
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Mt20102001&show_icons=true&theme=radical"
